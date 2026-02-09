@@ -29,7 +29,6 @@ L'obiettivo è dimostrare come i principi della fisica moderna (sovrapposizione,
 
 ## 👨‍💻 Autori
 * **Lorenzo Tessari**
-* **Luis Qyli**
 * *Università degli Studi di Verona - Dipartimento di Informatica*
 
 ---
